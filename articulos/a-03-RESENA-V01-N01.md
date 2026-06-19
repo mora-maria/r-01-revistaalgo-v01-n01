@@ -1,8 +1,6 @@
-# Reseña bibliográfica
-
 Souza, Jessé. *A elite do atraso: da escravidão à Lava Jato*. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.
 
-**Presentación y contexto**
+##**Presentación y contexto**
 
 Jessé Souza es uno de los sociólogos brasileños más provocadores de su generación. Formado en Derecho y Sociología por la Universidad de Brasilia, doctorado en Heidelberg y con posdoctorados en la New School for Social Research de Nueva York, ha dedicado buena parte de su trayectoria a desmontar lo que considera los mitos fundacionales de la interpretación de Brasil como nación. *A elite do atraso*, publicado originalmente en 2017 en el contexto de la crisis político-institucional que desembocó en el *impeachment* de Dilma Rousseff, es quizás su obra de mayor repercusión pública: un libro que trascendió el circuito académico para instalarse en el debate político brasileño e incluso inspirar el desfile de la escuela de samba Paraíso do Tuiuti en el carnaval de Río de Janeiro de 2018.
 

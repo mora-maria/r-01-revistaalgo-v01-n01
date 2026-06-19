@@ -1,5 +1,4 @@
 ::: {.editorial}
-Las deudas pendientes de la digitalización en América Latina
 
 ## Introducción
 

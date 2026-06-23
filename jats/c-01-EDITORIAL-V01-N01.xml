@@ -28,9 +28,22 @@
                <trans-title>The outstanding debts of digitalization in Latin America</trans-title>
             </trans-title-group>
          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" id="a1">
+               <name>
+                  <surname>Mora</surname>
+                  <given-names>Maria</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub-ppub">
+            <month>06</month>
+            <year>2026</year>
+         </pub-date>
          <volume>01</volume>
          <issue>01</issue>
          <permissions>
+            <copyright-year>2026</copyright-year>
             <license license-type="open-access">
                <license-p>Creative Commons Attribution 4.0 International (CC BY 4.0)</license-p>
             </license>

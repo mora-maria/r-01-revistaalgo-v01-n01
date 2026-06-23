@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Universidad de Buenos Aires</publisher>
+      <journalTitle>Revista Latinoamericana de Estudios Editoriales y Cultura Escrita</journalTitle>
+      <eissn>2591-3905</eissn>
+      <publicationDate>2026-06</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <documentType>article</documentType>
+      <title language="spa">Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México</title>
+      <authors>
+         <author>
+            <name>Mora, Maria</name>
+         </author>
+      </authors>
+      <abstract language="spa">Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</abstract>
+      <!-- ADVERTENCIA: fullTextUrl ausente. Pasar como parámetro Saxon
+            -param:fullTextUrl https://url-del-articulo
+            o agregar custom-meta 'fullTextUrl' en el canónico. -->
+      <keywords language="spa">
+         <keyword>brecha digital</keyword>
+         <keyword>educación superior</keyword>
+         <keyword>desigualdad</keyword>
+         <keyword>habilidades digitales</keyword>
+         <keyword>América Latina</keyword>
+      </keywords>
+   </record>
+</records>

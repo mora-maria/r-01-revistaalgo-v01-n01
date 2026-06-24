@@ -21,11 +21,18 @@
       <article-title>Reseña bibliográfica</article-title>
     </title-group>
     <contrib-group>
-      <contrib contrib-type="author" id="a1">
+      <contrib contrib-type="author" id="a2">
         <name>
-          <surname>Mora</surname>
-          <given-names>Maria</given-names>
+          <surname>Ego</surname>
+          <given-names>Alter</given-names>
         </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0012-4612</contrib-id>
+        <aff>
+          <institution content-type="dept">Cátedra</institution>,
+          <institution>UBA</institution>,
+          <city>Buenos Aires</city>,
+          <country>Argentina</country>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">

@@ -1,4 +1,6 @@
+
 ::: {.intro}
+
 ## Introducción
 
 La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías  @2562-WARSCHAUER2004; @2565-HARGITTAI2002.
@@ -10,6 +12,7 @@ El presente estudio analiza la relación entre las condiciones de acceso digital
 :::
 
 ::: {.methods}
+
 ## De la brecha de acceso a la desigualdad digital
 
 La noción de "brecha digital" surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai @2565-HARGITTAI2002 introdujo el concepto de "brecha digital de segundo nivel" para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.
@@ -33,11 +36,13 @@ Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acces
 :::
 
 ::: {.results}
+
 ## Condiciones de acceso material
 
 La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.
 
 ::: {.table #TablaArticulo01}
+
 **Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes).
 
   -------------------------------------- ------------ ------------ ------------- -------------
@@ -57,6 +62,7 @@ La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas
   -------------------------------------- ------------ ------------ ------------- -------------
 
 *Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.*
+
 :::
 
 Los datos revelan una pauta consistente: mientras que los estudiantes del quintil más alto presentan condiciones de acceso material prácticamente universales en ambas universidades, los del quintil más bajo enfrentan restricciones severas en todos los indicadores. La brecha es particularmente pronunciada en la disponibilidad de espacio privado de estudio y en la velocidad de conexión, dos factores que la literatura identifica como determinantes para el aprovechamiento académico de las herramientas digitales.
@@ -68,9 +74,11 @@ El análisis de regresión múltiple mostró que las habilidades digitales, medi
 La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.
 
 :::{.figure #figuran01}
+
 ![Figuras del módelo de mediación](media/figuran1.png)
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
+
 :::
 
 ## Experiencias de la brecha: evidencia cualitativa
@@ -82,6 +90,7 @@ Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prá
 :::
 
 ::: {.discussion}
+
 ## Discusión
 
 Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk @2563-VANDIJK2020 para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.

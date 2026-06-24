@@ -29,6 +29,13 @@
           <surname>Mora</surname>
           <given-names>Maria</given-names>
         </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0012-4613</contrib-id>
+        <aff>
+          <institution content-type="dept">departamento</institution>,
+          <institution>Facultad de Filosofía y Letras</institution>,
+          <city>Buenos Aires</city>,
+          <country>Argentina</country>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">

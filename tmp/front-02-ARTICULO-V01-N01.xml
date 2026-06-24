@@ -32,11 +32,24 @@
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
-      <month>06</month>
       <year>2026</year>
+      <month>06</month>
+      <day>26</day>
     </pub-date>
     <volume>01</volume>
     <issue>01</issue>
+    <history>
+      <date date-type="rev-recd">
+        <day>22</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="pub">
+        <day>26</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+    </history>
     <permissions>
       <copyright-year>2026</copyright-year>
       <license license-type="open-access">

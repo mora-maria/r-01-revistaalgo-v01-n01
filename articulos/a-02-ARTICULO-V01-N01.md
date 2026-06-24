@@ -38,7 +38,7 @@ Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acces
 La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.
 
 ::: {.table #TablaArticulo01}
-**Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes)
+**Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes).
 
   -------------------------------------- ------------ ------------ ------------- -------------
   **Indicador**                          **UBA Q1**   **UBA Q5**   **UNAM Q1**   **UNAM Q5**
@@ -68,7 +68,7 @@ El análisis de regresión múltiple mostró que las habilidades digitales, medi
 La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.
 
 :::{.figure #figuran01}
-![descripción de la imagen](media/figuran1.png)
+![Figuras del módelo de mediación](media/figuran1.png)
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
 :::
@@ -84,11 +84,11 @@ Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prá
 ::: {.discussion}
 ## Discusión
 
-Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk @2563-VANDIJK-2020 para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
+Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk @2563-VANDIJK2020 para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
 
-El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai @2565-HARGITTAI-2002 en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales ---no solo instrumentales sino también informacionales y estratégicas---, el acceso material no se traduce automáticamente en mejores oportunidades educativas.
+El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai @2565-HARGITTAI2002 en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales ---no solo instrumentales sino también informacionales y estratégicas---, el acceso material no se traduce automáticamente en mejores oportunidades educativas.
 
-La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la "matriz de la desigualdad social" latinoamericana @CEPAL-2021.
+La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la "matriz de la desigualdad social" latinoamericana @2566-CEPAL2021.
 
 ## Conclusiones
 

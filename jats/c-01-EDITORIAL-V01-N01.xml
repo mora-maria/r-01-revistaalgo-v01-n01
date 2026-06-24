@@ -37,17 +37,58 @@
             </contrib>
          </contrib-group>
          <pub-date pub-type="epub-ppub">
-            <month>06</month>
             <year>2026</year>
+            <month>06</month>
+            <day>26</day>
          </pub-date>
          <volume>01</volume>
          <issue>01</issue>
+         <fpage>1</fpage>
+         <lpage>1</lpage>
+         <history>
+            <date date-type="rev-recd">
+               <day>22</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
+            <date date-type="pub">
+               <day>26</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
+         </history>
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access">
                <license-p>Creative Commons Attribution 4.0 International (CC BY 4.0)</license-p>
             </license>
          </permissions>
+         <abstract xml:lang="es">
+            <p>La pandemia aceleró la digitalización en América Latina en áreas como la educación, los trámites públicos y la salud. Sin embargo, este proceso evidenció y profundizó las fracturas de una región con infraestructura y competencias marcadamente desiguales entre las grandes ciudades y las zonas rurales o periféricas.
+Aunque recientemente aumentó la penetración general de internet, persiste una "brecha digital de segundo nivel". Los sectores vulnerables acceden mayoritariamente mediante teléfonos móviles con planes de datos limitados, lo que restringe severamente su desarrollo educativo, laboral y ciudadano. De hecho, la conectividad de banda ancha resulta económicamente inviable para los más pobres, llegando a absorber hasta un 14% de sus ingresos mensuales.
+Proveer únicamente infraestructura tecnológica es insuficiente. Una verdadera inclusión digital requiere políticas públicas integrales que atiendan la conectividad, la formación y los contenidos, contemplando las desigualdades de ingreso, género, etnia y territorio. La tecnología, por sí sola, no resolverá las deudas históricas de la región.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <p>The pandemic accelerated digitalization in Latin America across areas such as education, public procedures, and healthcare. However, this process exposed and deepened the fractures of a region with markedly unequal infrastructure and skills between major cities and rural or peripheral areas.
+Although general internet penetration has recently increased, a "second-level digital divide" persists. Vulnerable sectors access the internet primarily through mobile phones with limited data plans, severely restricting their educational, professional, and civic development. In fact, broadband connectivity remains financially unviable for the poorest, consuming up to 14% of their monthly income.
+Providing technological infrastructure alone is insufficient. True digital inclusion requires comprehensive public policies that address connectivity, training, and content, while accounting for pre-existing inequalities of income, gender, ethnicity, and territory. Technology, on its own, will not resolve the region's historical debts.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es" kwd-group-type="author-generated">
+            <kwd>Brecha digital de segundo nivel</kwd>
+            <kwd>Digitalización</kwd>
+            <kwd>América Latina</kwd>
+            <kwd>Políticas públicas</kwd>
+            <kwd>Infraestructura digital</kwd>
+            <kwd>Desigualdad social</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en" kwd-group-type="author-generated">
+            <kwd>Second-level digital divide</kwd>
+            <kwd>Digitalization</kwd>
+            <kwd>Latin America</kwd>
+            <kwd>Public policies</kwd>
+            <kwd>Digital infrastructure</kwd>
+            <kwd>Social inequality</kwd>
+         </kwd-group>
          <custom-meta-group>
             <custom-meta>
                <meta-name>xml-lang</meta-name>

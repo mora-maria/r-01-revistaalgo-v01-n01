@@ -63,7 +63,8 @@
          </history>
          <permissions>
             <copyright-year>2026</copyright-year>
-            <license license-type="open-access">
+            <license license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">
                <license-p>Creative Commons Attribution 4.0 International (CC BY 4.0)</license-p>
             </license>
          </permissions>

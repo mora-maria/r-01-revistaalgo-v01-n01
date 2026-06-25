@@ -1,6 +1,6 @@
 PAQUETE SCIELO — construido con gbpublisher
 ============================================================
-Generado: 2026-06-24 23:26:32
+Generado: 2026-06-25 00:23:56
 
 DATOS DEL ARTÍCULO
 ------------------------------------------------------------
@@ -26,15 +26,14 @@ CONTENIDO DEL ZIP
 
 VALIDACIÓN PACKTOOLS STYLECHECKER
 ------------------------------------------------------------
-  Estado:       NO VÁLIDO
+  Estado:       VÁLIDO — is_valid: true
   DTD errors:   0
-  Style errors: presentes
+  Style errors: 0
 
 OBSERVACIONES
 ------------------------------------------------------------
+  Sin observaciones — el paquete está listo para enviar a SciELO.
 
 PRÓXIMOS PASOS
 ------------------------------------------------------------
-  1. Corregir los errores indicados arriba
-  2. Regenerar el paquete desde gbpublisher
-  3. Enviar el ZIP a scielo@scielo.org
+  1. Enviar el ZIP a scielo@scielo.org

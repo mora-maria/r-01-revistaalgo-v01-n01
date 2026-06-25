@@ -1,0 +1,40 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-24 23:26:32
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México
+Autor(es): Mora, Maria
+Archivo:   02-ARTICULO-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: HOLAMUNDO
+ISSN:            2591-3905
+URL canónica:    https://redeseditoriales.org/revista-latinoamericana-de-estudios-editoriales/
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 2591-3905-HOLAMUNDO-01-01-00002
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  2591-3905-HOLAMUNDO-01-01-00002.xml — XML SciELO PS 1.9
+  2591-3905-HOLAMUNDO-01-01-00002.pdf — PDF final
+  2591-3905-HOLAMUNDO-01-01-00002-gf01.png — Imagen 1
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   0
+  Style errors: presentes
+
+OBSERVACIONES
+------------------------------------------------------------
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org

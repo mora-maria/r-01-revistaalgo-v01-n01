@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260626185553</doi_batch_id>
+      <timestamp>20260626185553</timestamp>
+      <depositor>
+         <depositor_name>EUDEBA</depositor_name>
+         <email_address>contacto@prismaediciones.com.ar</email_address>
+      </depositor>
+      <registrant>Universidad de Buenos Aires</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Revista Latinoamericana de Estudios Editoriales y Cultura Escrita</full_title>
+            <issn media_type="electronic">2591-3905</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>26</day>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Las deudas pendientes de la digitalización en América Latina</title>
+               <original_language_title language="en">The outstanding debts of digitalization in Latin America</original_language_title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Maria</given_name>
+                  <surname>Mora</surname>
+                  <ORCID authenticated="true">https://orcid.org/0000-0003-0012-4613</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">La pandemia aceleró la digitalización en América Latina en áreas como la educación, los trámites públicos y la salud. Sin embargo, este proceso evidenció y profundizó las fracturas de una región con infraestructura y competencias marcadamente desiguales entre las grandes ciudades y las zonas rurales o periféricas. Aunque recientemente aumentó la penetración general de internet, persiste una "brecha digital de segundo nivel". Los sectores vulnerables acceden mayoritariamente mediante teléfonos móviles con planes de datos limitados, lo que restringe severamente su desarrollo educativo, laboral y ciudadano. De hecho, la conectividad de banda ancha resulta económicamente inviable para los más pobres, llegando a absorber hasta un 14% de sus ingresos mensuales. Proveer únicamente infraestructura tecnológica es insuficiente. Una verdadera inclusión digital requiere políticas públicas integrales que atiendan la conectividad, la formación y los contenidos, contemplando las desigualdades de ingreso, género, etnia y territorio. La tecnología, por sí sola, no resolverá las deudas históricas de la región.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">The pandemic accelerated digitalization in Latin America across areas such as education, public procedures, and healthcare. However, this process exposed and deepened the fractures of a region with markedly unequal infrastructure and skills between major cities and rural or peripheral areas. Although general internet penetration has recently increased, a "second-level digital divide" persists. Vulnerable sectors access the internet primarily through mobile phones with limited data plans, severely restricting their educational, professional, and civic development. In fact, broadband connectivity remains financially unviable for the poorest, consuming up to 14% of their monthly income. Providing technological infrastructure alone is insufficient. True digital inclusion requires comprehensive public policies that address connectivity, training, and content, while accounting for pre-existing inequalities of income, gender, ethnicity, and territory. Technology, on its own, will not resolve the region's historical debts.</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>26</day>
+               <year>2026</year>
+            </publication_date>
+            <pages>
+               <first_page>1</first_page>
+               <last_page>2</last_page>
+            </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by-nc/4.0/</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.31637/epsir-2023-898</doi>
+               <resource content_version="vor" mime_type="text/html">https://redeseditoriales.org/revista-latinoamericana-de-estudios-editoriales/</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>

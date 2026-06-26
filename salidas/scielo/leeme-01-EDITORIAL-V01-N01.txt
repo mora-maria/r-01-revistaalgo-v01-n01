@@ -1,0 +1,39 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 18:43:29
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Las deudas pendientes de la digitalización en América Latina
+Autor(es): Mora, Maria
+Archivo:   01-EDITORIAL-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: HOLAMUNDO
+ISSN:            2591-3905
+URL canónica:    https://redeseditoriales.org/revista-latinoamericana-de-estudios-editoriales/
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 2591-3905-HOLAMUNDO-01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  2591-3905-HOLAMUNDO-01-01-00001.xml — XML SciELO PS 1.9
+  2591-3905-HOLAMUNDO-01-01-00001.pdf — PDF final
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       VÁLIDO — is_valid: true
+  DTD errors:   0
+  Style errors: 0
+
+OBSERVACIONES
+------------------------------------------------------------
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+  Sin observaciones — el paquete está listo para enviar a SciELO.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Enviar el ZIP a scielo@scielo.org

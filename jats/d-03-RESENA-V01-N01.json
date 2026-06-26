@@ -1,0 +1,32 @@
+{
+  "bibjson": {
+    "title": "Reseña bibliográfica",
+    "year": "2026",
+    "month": "junio",
+    "author": [
+      {
+        "name": "Ego, Alter",
+        "orcid_id": "https://orcid.org/0000-0003-0012-4612"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "2591-3905"},
+      {"type": "doi", "id": "10.22201/iisue.24486167e.2023.181.60627"}
+    ],
+    "journal": {
+      "title": "Revista Latinoamericana de Estudios Editoriales y Cultura Escrita",
+      "publisher": "EUDEBA",
+      "volume": "01",
+      "number": "01",
+      "start_page": "9",
+      "end_page": "11"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://mora-maria.github.io/r-01-revistaalgo-v01-n01/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

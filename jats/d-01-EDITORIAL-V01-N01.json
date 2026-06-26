@@ -1,0 +1,41 @@
+{
+  "bibjson": {
+    "title": "Las deudas pendientes de la digitalización en América Latina",
+    "abstract": "La pandemia aceleró la digitalización en América Latina en áreas como la educación, los trámites públicos y la salud. Sin embargo, este proceso evidenció y profundizó las fracturas de una región con infraestructura y competencias marcadamente desiguales entre las grandes ciudades y las zonas rurales o periféricas.\nAunque recientemente aumentó la penetración general de internet, persiste una "brecha digital de segundo nivel". Los sectores vulnerables acceden mayoritariamente mediante teléfonos móviles con planes de datos limitados, lo que restringe severamente su desarrollo educativo, laboral y ciudadano. De hecho, la conectividad de banda ancha resulta económicamente inviable para los más pobres, llegando a absorber hasta un 14% de sus ingresos mensuales.\nProveer únicamente infraestructura tecnológica es insuficiente. Una verdadera inclusión digital requiere políticas públicas integrales que atiendan la conectividad, la formación y los contenidos, contemplando las desigualdades de ingreso, género, etnia y territorio. La tecnología, por sí sola, no resolverá las deudas históricas de la región.",
+    "year": "2026",
+    "month": "junio",
+    "keywords": [
+      "Brecha digital de segundo nivel",
+      "Digitalización",
+      "América Latina",
+      "Políticas públicas",
+      "Infraestructura digital",
+      "Desigualdad social"
+    ],
+    "author": [
+      {
+        "name": "Mora, Maria",
+        "orcid_id": "https://orcid.org/0000-0003-0012-4613"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "2591-3905"},
+      {"type": "doi", "id": "10.31637/epsir-2023-898"}
+    ],
+    "journal": {
+      "title": "Revista Latinoamericana de Estudios Editoriales y Cultura Escrita",
+      "publisher": "EUDEBA",
+      "volume": "01",
+      "number": "01",
+      "start_page": "1",
+      "end_page": "2"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://redeseditoriales.org/revista-latinoamericana-de-estudios-editoriales/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260626184942</doi_batch_id>
+      <timestamp>20260626184942</timestamp>
+      <depositor>
+         <depositor_name>EUDEBA</depositor_name>
+         <email_address>contacto@prismaediciones.com.ar</email_address>
+      </depositor>
+      <registrant>Universidad de Buenos Aires</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Revista Latinoamericana de Estudios Editoriales y Cultura Escrita</full_title>
+            <issn media_type="electronic">2591-3905</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>26</day>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Reseña bibliográfica</title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Alter</given_name>
+                  <surname>Ego</surname>
+                  <ORCID authenticated="true">https://orcid.org/0000-0003-0012-4612</ORCID>
+               </person_name>
+            </contributors>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>26</day>
+               <year>2026</year>
+            </publication_date>
+            <pages>
+               <first_page>8</first_page>
+               <last_page>10</last_page>
+            </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by-nc/4.0/</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.22201/iisue.24486167e.2023.181.60627</doi>
+               <resource content_version="vor" mime_type="text/html">https://mora-maria.github.io/r-01-revistaalgo-v01-n01/</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>

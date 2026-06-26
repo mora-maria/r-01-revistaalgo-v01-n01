@@ -1,0 +1,40 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 18:46:40
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Reseña bibliográfica
+Autor(es): Ego, Alter
+Archivo:   03-RESENA-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: HOLAMUNDO
+ISSN:            2591-3905
+URL canónica:    https://mora-maria.github.io/r-01-revistaalgo-v01-n01/
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 2591-3905-HOLAMUNDO-01-01-00008
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  2591-3905-HOLAMUNDO-01-01-00008.xml — XML SciELO PS 1.9
+  2591-3905-HOLAMUNDO-01-01-00008.pdf — PDF final
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   presentes
+  Style errors: 0
+
+OBSERVACIONES
+------------------------------------------------------------
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org

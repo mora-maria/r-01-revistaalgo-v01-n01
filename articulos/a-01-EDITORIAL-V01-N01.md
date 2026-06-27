@@ -1,4 +1,3 @@
-
 ::: {.editorial}
 
 ## Introducción

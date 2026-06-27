@@ -1,6 +1,6 @@
 PAQUETE SCIELO — construido con gbpublisher
 ============================================================
-Generado: 2026-06-26 18:46:40
+Generado: 2026-06-26 21:50:00
 
 DATOS DEL ARTÍCULO
 ------------------------------------------------------------
@@ -16,12 +16,12 @@ URL canónica:    https://mora-maria.github.io/r-01-revistaalgo-v01-n01/
 
 NOMENCLATURA SCIELO
 ------------------------------------------------------------
-PID: 2591-3905-HOLAMUNDO-01-01-00008
+PID: 2591-3905-HOLAMUNDO-01-01-00009
 
 CONTENIDO DEL ZIP
 ------------------------------------------------------------
-  2591-3905-HOLAMUNDO-01-01-00008.xml — XML SciELO PS 1.9
-  2591-3905-HOLAMUNDO-01-01-00008.pdf — PDF final
+  2591-3905-HOLAMUNDO-01-01-00009.xml — XML SciELO PS 1.9
+  2591-3905-HOLAMUNDO-01-01-00009.pdf — PDF final
 
 VALIDACIÓN PACKTOOLS STYLECHECKER
 ------------------------------------------------------------

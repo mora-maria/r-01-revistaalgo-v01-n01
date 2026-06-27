@@ -22,7 +22,7 @@
          </publisher>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="publisher-id">2591-3905-HOLAMUNDO-01-01-00008</article-id>
+         <article-id pub-id-type="publisher-id">2591-3905-HOLAMUNDO-01-01-00009</article-id>
          <article-id pub-id-type="doi">10.22201/iisue.24486167e.2023.181.60627</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
@@ -58,11 +58,21 @@
          </pub-date>
          <volume>01</volume>
          <issue>01</issue>
-         <fpage>8</fpage>
-         <lpage>10</lpage>
+         <fpage>9</fpage>
+         <lpage>11</lpage>
          <history>
+            <date date-type="received">
+               <day>26</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
             <date date-type="rev-recd">
                <day>22</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
+            <date date-type="accepted">
+               <day>26</day>
                <month>06</month>
                <year>2026</year>
             </date>
@@ -75,16 +85,18 @@
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access"
-                     xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:href="https://creativecommons.org/licenses/by/4.0/"
                      xml:lang="es">
-               <license-p>Creative Commons Attribution 4.0 International (CC BY 4.0)</license-p>
+               <license-p>CC BY 4.0</license-p>
             </license>
          </permissions>
          <self-uri xlink:href="https://mora-maria.github.io/r-01-revistaalgo-v01-n01/"/>
       </article-meta>
    </front>
    <body>
-      <p>Souza, Jessé. <italic toggle="yes">A elite do atraso: da escravidão à Lava Jato</italic>. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.</p>
+      <disp-quote>
+         <p>Souza, Jessé. <italic toggle="yes">A elite do atraso: da escravidão à Lava Jato</italic>. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.</p>
+      </disp-quote>
       <sec id="sec-1">
          <title>
             <bold>Presentación y contexto</bold>
